@@ -5,7 +5,7 @@ description = ""
 authors = ["Sandro Pischinger <mail@sandropischinger.de>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9.7"
 selenium = "^4.1.0"
 
 [tool.poetry.dev-dependencies]

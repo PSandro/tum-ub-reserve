@@ -56,6 +56,7 @@ class Driver:
                 f'{name}: {date} - {timespan} -> {status} / {reservation_link}')
 
     def quit(self):
+        logger.info("quitting chrome driver...")
         self.driver.quit()
 
 
