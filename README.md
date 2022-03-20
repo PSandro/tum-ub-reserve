@@ -1,4 +1,5 @@
 # tum-ub-reserve
+# NOTE: the reservation at the library is no longer available
 this is just a neat little project to help me gather information on the current
 seat reservations at my university's library (see [here](https://www.ub.tum.de/arbeitsplatz-reservieren))
 
